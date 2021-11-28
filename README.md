@@ -1,4 +1,4 @@
-# extension_openMultiSites
+# extension_open_MultiSites
 This repository demonstrates the powerful combination of browser extension and iframe that can be used on many occasions. With this extension, you can open multiple search results pages on Google. 
 
 ![demo of the extension](demo.gif)
