@@ -1,12 +1,13 @@
 # extension_open_MultiSites
-This repository demonstrates the powerful combination of browser extension and iframe that can be used on many occasions. With this extension, you can open multiple search results pages on Google. 
+This repository demonstrates the powerful combination of browser extension and iframe. I'll use Google as an example. With this extension, I can open multiple websites from the Google search results pages with just a click. So when I am looking for something, I do not have to open on one result after another, I can now check them at a glance.
 
 ![demo of the extension](demo.gif)
 
 
 ## How it works: 
-1. We enter multiple search terms of interest in the extension's pop-up window. 
-2. Click the button and the Google search results will open one by one at the bottom of the website.
+1. Make sure we are now under the domain google.com 
+2. Enter search terms in the extension popup window, and break each term with a new line.
+3. Click the button and the Google search results will appear one by one at the bottom of the website.
 
 ## Customize: 
 - Change the src of iframe to get your own targeted page.
