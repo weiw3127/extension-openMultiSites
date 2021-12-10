@@ -1,4 +1,4 @@
-# extension_open_MultiSites
+# extension-site-display-board
 This repository demonstrates the powerful combination of browser extension and iframe. I'll use Google as an example. With this extension, I can open multiple websites from the Google search results pages with just a click. So when I am looking for something, I do not have to open on one result after another, I can now check them at a glance.
 
 ![demo of the extension](demo.gif)
